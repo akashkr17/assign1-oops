@@ -3,10 +3,10 @@
 # Overview
 
 ### This Project has a trait Queue which performs two functions of enqueue and dequque.
-#### It wo classes: DoubleQueue and SquareQueue mix in this trait.
-#### DoubleQueue enqueues the element after doubling them.
-#### SquareQueue enqueues the element after squaring them
-#### Dequeue method will remove the first element from the queue
+##### It has classes: DoubleQueue and SquareQueue mix in this trait.
+##### DoubleQueue enqueues the element after doubling them.
+##### SquareQueue enqueues the element after squaring them
+##### Dequeue method will remove the first element from the queue
 
 
 # Installation of Sbt and scala
